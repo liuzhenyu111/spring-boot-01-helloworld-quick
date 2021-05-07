@@ -10,6 +10,7 @@ public class SpringBoot01HelloworldQuickApplication {
         SpringApplication.run(SpringBoot01HelloworldQuickApplication.class, args);
         //随便写写
         //再写写
+        //3 最后再写
     }
 
 }
